@@ -13,7 +13,6 @@ Follow these steps to get started:
    
 ###2. **Clone** the forked repostory:
 Clone the Forked Repository to your local computer using teh following command: 
-```bash
    git clone https://github.com/YOUR_USERNAME/UWAFT-Highschool-Hackathon-2024.git
 
 ###3. Create your group folder 
