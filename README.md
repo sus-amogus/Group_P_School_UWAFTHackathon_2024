@@ -21,7 +21,8 @@ Group_[YourGroupLetter]_Highshchool_UWAFTHackathon
 
 (example: Group_A_RHKing_UWAFTHackathon)
 
-
+Click here to open the code and repository in MATLAB Online:
+[!![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=khavian/UWAFT-Highschool-Hackathon---2024&file=ExampleModel.mlx)
 
 
 
