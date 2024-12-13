@@ -6,25 +6,36 @@ This respository is for highschool student groups to collaborate on projects. Ea
 ##Instruction for students 
 Follow these steps to get started: 
 
-###1. **Fork this repository** 
+###1. **Fork this repository** - One person from each team will fork the repository 
 
 1. Click the **"Fork"** button in the top-right corner of this repository.
 2. This creates a copy of the repository in your GitHub account.
+
+##2. Add your team members in your folders
+1. Go to settings
+2. Click "collaborators" on the top left side (under General and Access)
+3. In Manage access - click "Add people"
+4. In "Find people", type in your team members Github account names OR their emails (associated with Github)
+5. Click Select Collaborator (make sure that it is your teammate)
+6. Click the green button "Add __NAME_ to this repository"
+7. ALL YOUR TEAMMEMBERS HAVE ACCESS TO THE GITHUB
    
-###2. **Clone** the forked repostory:
-Clone the Forked Repository to your local computer using teh following command: 
-   git clone https://github.com/YOUR_USERNAME/UWAFT-Highschool-Hackathon-2024.git
-
-###3. Create your group folder 
-4. Create a new folder in the repository using the following naming convention: 
-Group_[YourGroupLetter]_Highshchool_UWAFTHackathon
-
+###3. Change the title of your Github Folder  
+1. Go to setting (top right)
+2. Go to General
+3. Change "Repository name" to "Group_[YourGroupLetter]_Highshchool_UWAFTHackathon_2024"
 (example: Group_A_RHKing_UWAFTHackathon)
 
+###4. Ensure that your folder is PRIVATE during work time 
+
 Click here to open the code and repository in MATLAB Online:
-[!![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=khavian/UWAFT-Highschool-Hackathon---2024&file=ExampleModel.mlx)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=khavian/UWAFT-Highschool-Hackathon---2024&file=ExampleModel.mlx)
 
 
+download the file from matlab and then upload it onto the github 
+Titling conventions: Group_LETTER_School_STEPSTAKEN_CODE
+- ensure that the strides taken are accurate to you
+- ensure that the distance measurements are in km and meter! 
 
 
 
