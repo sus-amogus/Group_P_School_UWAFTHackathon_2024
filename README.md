@@ -23,7 +23,7 @@ Follow these steps to get started:
 ###3. Change the title of your Github Folder  
 1. Go to setting (top right)
 2. Go to General
-3. Change "Repository name" to "Group_[YourGroupLetter]_Highshchool_UWAFTHackathon_2024"
+3. Change "Repository name" to "Group_[YourGroupLetter]_UWAFTHackathon_2024"
 (example: Group_A_WATERLOO_UWAFTHackathon)
 
 ###4. Ensure that your folder is PRIVATE during work time 
