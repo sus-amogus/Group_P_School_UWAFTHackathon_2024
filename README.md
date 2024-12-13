@@ -24,9 +24,22 @@ Follow these steps to get started:
 1. Go to setting (top right)
 2. Go to General
 3. Change "Repository name" to "Group_[YourGroupLetter]_Highshchool_UWAFTHackathon_2024"
-(example: Group_A_RHKing_UWAFTHackathon)
+(example: Group_A_WATERLOO_UWAFTHackathon)
 
 ###4. Ensure that your folder is PRIVATE during work time 
+
+###5. Create a Mathworks Account 
+1. Create an account on mathworks.com (https://www.mathworks.com/)
+2. Click "Sign in" on the top right
+3. Click "Create Account"
+4. Use any email you like ( suggested the one you will expect to use in the future workforce)
+5. Create your account password and confirm - NOW YOU HAVE A MATHWORKS ACCOUNT WOOHOO
+
+###6. Obtain Mathworks Liscence 
+1. Click this link "Mathworks License" (https://www.mathworks.com/licensecenter/classroom/4677551/)
+2. Click on "Access MATLAB" - The license will autoamtically be associated with your Mathworks account!
+3. NOW YOU CAN CODE ON MATLAB!
+_________________________________________________________________________________________________________________
 
 Click here to open the code and repository in MATLAB Online:
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=khavian/UWAFT-Highschool-Hackathon---2024&file=ExampleModel.mlx)
