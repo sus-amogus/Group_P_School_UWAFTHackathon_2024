@@ -156,7 +156,7 @@ Click here to open the code and repository in MATLAB Online:
 **Naming convention: " "UWAFTSubmission_TASK5.2_GROUP_LETTER_SCHOOL_2024"**
 
 
-##TASK 6 - Presentation and Pitch
+**##TASK 6 - Presentation and Pitch**
 1. As a team we create a elevator pitch and presentation together - there is not point in doing all this work if your app never enters the market! 
 2. **6.1 - Elevator Pitch** - This task requires you to create a 1 minute MAXIMUM MP4 Video describing the following:
    a. The target audience
