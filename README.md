@@ -27,6 +27,13 @@ Follow these steps to get started:
 (example: Group_A_WATERLOO_UWAFTHackathon)
 
 ###4. Ensure that your folder is PRIVATE during work time 
+1. Go to settings
+2. Go to Collaborators
+3. Under the "Who has access" section - click "Manage"
+4. Scroll down to the "Danger Zone"
+5. Click "CHange Repository visibility"
+6. Select Private
+7. Follow prompts to confirm 
 
 ###5. Create a Mathworks Account 
 1. Create an account on mathworks.com (https://www.mathworks.com/)
@@ -39,8 +46,30 @@ Follow these steps to get started:
 1. Click this link "Mathworks License" (https://www.mathworks.com/licensecenter/classroom/4677551/)
 2. Click on "Access MATLAB" - The license will autoamtically be associated with your Mathworks account!
 3. NOW YOU CAN CODE ON MATLAB!
+
+###7. Work on your submissions! They are Due at 5:30 pm 
+
+###8. at 5:30 pm Ensure change your fork back to PUBLIC 
+1. Go to the setting page of your fork repository
+2. 2. Go to Collaborators
+3. Under the "Who has access" section - click "Manage"
+4. Scroll down to the "Danger Zone"
+5. Click "CHange Repository visibility"
+6. Select Public
+7. Follow prompts to confirm
+
+###9. Submit your GITHUB FOLDER NO LATER THAN 5:30pm 
+1. Ensure that your Github Fork is PUBLIC
+2. Chose 1 representative of your group to submit your folder
+3. No changes can be made past the deadline
+4. Email your Github link to tran0210@mylaurier.ca and snamwong@uwaterloo.ca with the Title "Group_LETTER_SCHOOL_UWAFTHackathon_Submission"
 _________________________________________________________________________________________________________________
 
+**ACCESSING YOUR TASKS*** 
+In your now forked repository, you will have a copy of all the necessary information for your team to complete each task. 
+
+###1. Review Tasks as a team 
+1. 
 Click here to open the code and repository in MATLAB Online:
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=khavian/UWAFT-Highschool-Hackathon---2024&file=ExampleModel.mlx)
 
