@@ -72,7 +72,7 @@ Follow these steps to get started:
 2. Chose 1 representative of your group to submit your folder
 3. No changes can be made past the deadline
 4. Email your Github link to  uwaft.ecocar@gmail.com, tran0210@mylaurier.ca and snamwong@uwaterloo.ca with the Title "Submission - Group_LETTER_SCHOOL_UWAFTHackathon_2024"
-   a. Example: "Submission - Group_A_UWaterloo_UWAFTHackathon_2024"
+   a. Example: "UWAFTSubmission - Group_A_UWaterloo_UWAFTHackathon_2024"
 _________________________________________________________________________________________________________________
 
 ***ACCESSING YOUR TASKS*** 
@@ -150,7 +150,7 @@ Click here to open the code and repository in MATLAB Online:
       b. Explaination of all features
       c. An explaination of changes made from the original prototpye
 **Naming convention: "UWAFTSubmission_TASK5.1_GROUP_LETTER_SCHOOL_2024"**
-3. **5.2** - JPEG or PDF of your Wireframe of Final UX Design that includes:
+3. **5.2** - JPEG or PNG of your Wireframe of Final UX Design that includes:
   a. A minimum of 8 Panels
    b. Ensures a clear flow of your app
 **Naming convention: " "UWAFTSubmission_TASK5.2_GROUP_LETTER_SCHOOL_2024"**
