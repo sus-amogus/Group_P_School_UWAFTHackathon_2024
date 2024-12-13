@@ -11,7 +11,7 @@ Follow these steps to get started:
 1. Click the **"Fork"** button in the top-right corner of this repository.
 2. This creates a copy of the repository in your GitHub account.
 
-##2. Add your team members in your folders
+###2. Add your team members in your folders
 1. Go to settings
 2. Click "collaborators" on the top left side (under General and Access)
 3. In Manage access - click "Add people"
